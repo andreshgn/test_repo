@@ -6,3 +6,4 @@ Demo of a new file
 	def newFile(name):
 		a=name
 		print a
+		return a
