@@ -7,3 +7,6 @@ Demo of a new file
 		a=name
 		print a
 		return a
+
+##New code
+	def newFunc():
